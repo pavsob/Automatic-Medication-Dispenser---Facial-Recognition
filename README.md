@@ -15,4 +15,9 @@ When the patient comes in front of the dispenser, a display presents two options
 The first option uses the camera for facial recognition to recognize the user in front of the dispenser. When the face is not recognized, it stays idle (it does not dispense pills to an unauthorized person). If the machine recognizes the patient, it checks whether it is time for the patient's medication. If the patient comes in front of the dispenser at the incorrect time, it shows the time on the display when the patient should come. If the patient stands in front of the camera at the correct time, the machine starts dispensing her/his medications. Again it holds counts on the screen so the patient can check dosing. After the pills are dispensed, it shows the time for the following medications.
 For safety reasons, the dispenser won't dispense pills if it sees more than one person in front of the camera.
 
-![image](https://user-images.githubusercontent.com/81230042/119844019-f9b10d00-beff-11eb-8a9c-537621ec5b39.png)
+<div align='center'>
+  
+  ![image](https://user-images.githubusercontent.com/81230042/119844019-f9b10d00-beff-11eb-8a9c-537621ec5b39.png)
+  
+</div> 
+
