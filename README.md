@@ -1,4 +1,4 @@
-# AutomaticMedicationDispenser-FacialRecognition
+# Automatic Medication Dispenser - Facial Recognition
 
 Its purpose is to serve medicaments to the patients automatically. It consists of dispensing mechanism that picks an appropriate pill and dispenses it for a user. It has a screen through which the machine communicates with the patient. Another main component is a camera that the dispenser uses for facial recognition to identify the patient in front of the dispenser. It holds the database of its patients that contains data about the time the patient should be served the medications, what kind of medication and how many pills the patient should take. It also remembers whether the patient already took the pills. When the time comes to take the pill, the patient is notified by SMS.
 
